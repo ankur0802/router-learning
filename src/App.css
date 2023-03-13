@@ -1,0 +1,9 @@
+.active{
+    color: aqua;
+}
+input{
+    border: 2px solid grey !important;
+    width: 50% !important;
+    height: 2rem !important;
+    margin: 23px !important;
+}
